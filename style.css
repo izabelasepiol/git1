@@ -24,6 +24,7 @@ counter-reset: card;
     width: 100px;
     height: 150px;
     color:green;
+    background: red;
     padding: 10px;
     margin: 10px
 }
