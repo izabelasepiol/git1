@@ -22,8 +22,8 @@ counter-reset: card;
 .card {
 
     width: 100px;
-    height: 150px;
-    color:green;
+    height: 120px;
+    color: green;
     background: red;
     padding: 10px;
     margin: 10px
@@ -32,4 +32,6 @@ counter-reset: card;
 .card:nth-child(2){background: yellow;}
 
 .card:nth-child(3){background:blue;}
+
+.card:nth-child(4){background:violet;}
 
